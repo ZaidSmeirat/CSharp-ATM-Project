@@ -1,0 +1,16 @@
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.exe
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.deps.json
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.runtimeconfig.json
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.runtimeconfig.dev.json
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.dll
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\bin\Debug\net5.0\ref\ATMapp.dll
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.pdb
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.csproj.AssemblyReference.cache
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.AssemblyInfoInputs.cache
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.AssemblyInfo.cs
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.csproj.CoreCompileInputs.cache
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.dll
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\obj\Debug\net5.0\ref\ATMapp.dll
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.pdb
+C:\Users\Zaid Smeirat\source\repos\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.genruntimeconfig.cache
